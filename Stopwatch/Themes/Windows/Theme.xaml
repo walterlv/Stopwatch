@@ -1,0 +1,10 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="pack://application:,,,/Stopwatch;component/Themes/Windows/Color.xaml" />
+        <ResourceDictionary Source="pack://application:,,,/Stopwatch;component/Themes/Windows/Button.xaml" />
+        <ResourceDictionary Source="pack://application:,,,/Stopwatch;component/Themes/Windows/TextBox.xaml" />
+    </ResourceDictionary.MergedDictionaries>
+
+</ResourceDictionary>
