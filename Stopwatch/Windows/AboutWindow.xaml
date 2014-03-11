@@ -20,6 +20,8 @@
             <ResourceDictionary.MergedDictionaries>
                 <ResourceDictionary Source="pack://application:,,,/Stopwatch;component/Themes/Windows/Theme.xaml" />
             </ResourceDictionary.MergedDictionaries>
+            <Style TargetType="Button"
+                   BasedOn="{StaticResource DefaultButtonStyle}" />
         </ResourceDictionary>
     </Window.Resources>
 
@@ -68,7 +70,7 @@
             <TextBlock>
                 <Run Text="作者：吕毅" />
                 <LineBreak />
-                <Run Text="版本：2.0.3" />
+                <Run Text="版本：2.1.4" />
                 <LineBreak />
                 <Run Text="发布日期：2014年2月28日" />
                 <LineBreak />

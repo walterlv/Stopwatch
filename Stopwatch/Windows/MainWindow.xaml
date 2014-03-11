@@ -101,7 +101,7 @@
         <Viewbox Grid.Row="0" Grid.RowSpan="3">
             <TextBlock x:Name="DisplayTextBlock"
                        Padding="2"
-                       Text="0:00" />
+                       Text="00:00" />
         </Viewbox>
 
         <!-- 标题栏 -->
